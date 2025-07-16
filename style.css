@@ -43,7 +43,7 @@ img {
 }
 
 .content h1 {
-  font-size: 700;
+  font-weight: 700;
   font-size: 22px;
   color: hsl(218, 44%, 22%);
 }
